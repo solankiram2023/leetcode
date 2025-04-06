@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/solankiram2023/leetcode/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/solankiram2023/leetcode/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/solankiram2023/leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/solankiram2023/leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/solankiram2023/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
