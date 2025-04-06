@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/solankiram2023/leetcode/tree/master/0198-house-robber) |
+| [0256-paint-house](https://github.com/solankiram2023/leetcode/tree/master/0256-paint-house) |
 | [0322-coin-change](https://github.com/solankiram2023/leetcode/tree/master/0322-coin-change) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/solankiram2023/leetcode/tree/master/0198-house-robber) |
+| [0256-paint-house](https://github.com/solankiram2023/leetcode/tree/master/0256-paint-house) |
 | [0322-coin-change](https://github.com/solankiram2023/leetcode/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
