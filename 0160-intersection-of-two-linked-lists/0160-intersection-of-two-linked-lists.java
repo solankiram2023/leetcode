@@ -48,3 +48,13 @@ public class Solution {
         return null;
     }
 }
+
+/*
+Time Complexity: O(m*n):
+ Where m=length of listA, n = length of listB
+ For exxh node in list A, we traverse the entire list B.
+
+ Space Complexity : O(1)
+ No extra space is used; only pointer variables are reused.
+
+ */
