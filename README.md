@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0256-paint-house](https://github.com/solankiram2023/leetcode/tree/master/0256-paint-house) |
 | [0322-coin-change](https://github.com/solankiram2023/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/solankiram2023/leetcode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/solankiram2023/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0720-longest-word-in-dictionary](https://github.com/solankiram2023/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0256-paint-house](https://github.com/solankiram2023/leetcode/tree/master/0256-paint-house) |
 | [0322-coin-change](https://github.com/solankiram2023/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/solankiram2023/leetcode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/solankiram2023/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/solankiram2023/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/solankiram2023/leetcode/tree/master/0051-n-queens) |
 | [0282-expression-add-operators](https://github.com/solankiram2023/leetcode/tree/master/0282-expression-add-operators) |
+| [0526-beautiful-arrangement](https://github.com/solankiram2023/leetcode/tree/master/0526-beautiful-arrangement) |
 ## String
 |  |
 | ------- |
@@ -88,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/solankiram2023/leetcode/tree/master/0282-expression-add-operators) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/solankiram2023/leetcode/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/solankiram2023/leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
