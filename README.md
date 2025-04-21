@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/solankiram2023/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/solankiram2023/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/solankiram2023/leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/solankiram2023/leetcode/tree/master/0198-house-robber) |
 | [0256-paint-house](https://github.com/solankiram2023/leetcode/tree/master/0256-paint-house) |
 | [0322-coin-change](https://github.com/solankiram2023/leetcode/tree/master/0322-coin-change) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
@@ -67,16 +69,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/solankiram2023/leetcode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/solankiram2023/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/solankiram2023/leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/solankiram2023/leetcode/tree/master/0282-expression-add-operators) |
 | [0526-beautiful-arrangement](https://github.com/solankiram2023/leetcode/tree/master/0526-beautiful-arrangement) |
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/solankiram2023/leetcode/tree/master/0282-expression-add-operators) |
 | [0720-longest-word-in-dictionary](https://github.com/solankiram2023/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Trie
