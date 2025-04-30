@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/solankiram2023/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/solankiram2023/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/solankiram2023/leetcode/tree/master/0740-delete-and-earn) |
+| [0807-custom-sort-string](https://github.com/solankiram2023/leetcode/tree/master/0807-custom-sort-string) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/solankiram2023/leetcode/tree/master/0282-expression-add-operators) |
 | [0720-longest-word-in-dictionary](https://github.com/solankiram2023/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0807-custom-sort-string](https://github.com/solankiram2023/leetcode/tree/master/0807-custom-sort-string) |
 ## Trie
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/solankiram2023/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/solankiram2023/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0807-custom-sort-string](https://github.com/solankiram2023/leetcode/tree/master/0807-custom-sort-string) |
 ## Math
 |  |
 | ------- |
