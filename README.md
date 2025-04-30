@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/solankiram2023/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/solankiram2023/leetcode/tree/master/0036-valid-sudoku) |
 | [0160-intersection-of-two-linked-lists](https://github.com/solankiram2023/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/solankiram2023/leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/solankiram2023/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/solankiram2023/leetcode/tree/master/0282-expression-add-operators) |
 | [0720-longest-word-in-dictionary](https://github.com/solankiram2023/leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/solankiram2023/leetcode/tree/master/0253-meeting-rooms-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/solankiram2023/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
