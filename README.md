@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/solankiram2023/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/solankiram2023/leetcode/tree/master/0740-delete-and-earn) |
 | [0967-minimum-falling-path-sum](https://github.com/solankiram2023/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/solankiram2023/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/solankiram2023/leetcode/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/solankiram2023/leetcode/tree/master/0322-coin-change) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/solankiram2023/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Linked List
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/solankiram2023/leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
 | [0967-minimum-falling-path-sum](https://github.com/solankiram2023/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/solankiram2023/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Backtracking
 |  |
 | ------- |
