@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/solankiram2023/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/solankiram2023/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/solankiram2023/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/solankiram2023/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/solankiram2023/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/solankiram2023/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/solankiram2023/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/solankiram2023/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/solankiram2023/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/solankiram2023/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/solankiram2023/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Hash Table
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/solankiram2023/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/solankiram2023/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/solankiram2023/leetcode/tree/master/0113-path-sum-ii) |
 | [0282-expression-add-operators](https://github.com/solankiram2023/leetcode/tree/master/0282-expression-add-operators) |
 | [0526-beautiful-arrangement](https://github.com/solankiram2023/leetcode/tree/master/0526-beautiful-arrangement) |
 ## String
