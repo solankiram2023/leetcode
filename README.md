@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/solankiram2023/leetcode/tree/master/0198-house-robber) |
 | [0253-meeting-rooms-ii](https://github.com/solankiram2023/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/solankiram2023/leetcode/tree/master/0256-paint-house) |
+| [0289-game-of-life](https://github.com/solankiram2023/leetcode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/solankiram2023/leetcode/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/solankiram2023/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/solankiram2023/leetcode/tree/master/0518-coin-change-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/solankiram2023/leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/solankiram2023/leetcode/tree/master/0289-game-of-life) |
 | [0967-minimum-falling-path-sum](https://github.com/solankiram2023/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/solankiram2023/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Backtracking
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/solankiram2023/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/solankiram2023/leetcode/tree/master/0076-minimum-window-substring) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/solankiram2023/leetcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
