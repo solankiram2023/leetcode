@@ -70,15 +70,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/solankiram2023/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/solankiram2023/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/solankiram2023/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Hash Table
 |  |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/solankiram2023/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/solankiram2023/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
