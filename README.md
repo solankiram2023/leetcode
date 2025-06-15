@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/solankiram2023/leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/solankiram2023/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/solankiram2023/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/solankiram2023/leetcode/tree/master/0051-n-queens) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/solankiram2023/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/solankiram2023/leetcode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/solankiram2023/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/solankiram2023/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/solankiram2023/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/solankiram2023/leetcode/tree/master/0075-sort-colors) |
 | [0253-meeting-rooms-ii](https://github.com/solankiram2023/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/solankiram2023/leetcode/tree/master/0720-longest-word-in-dictionary) |
