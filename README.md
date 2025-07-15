@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/solankiram2023/leetcode/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/solankiram2023/leetcode/tree/master/0127-word-ladder) |
+| [0226-invert-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/solankiram2023/leetcode/tree/master/0322-coin-change) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/solankiram2023/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Linked List
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/solankiram2023/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/solankiram2023/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/solankiram2023/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/solankiram2023/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/solankiram2023/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/solankiram2023/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/solankiram2023/leetcode/tree/master/0226-invert-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
