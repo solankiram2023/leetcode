@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/solankiram2023/leetcode/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/solankiram2023/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/solankiram2023/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/solankiram2023/leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/solankiram2023/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/solankiram2023/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/solankiram2023/leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/solankiram2023/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/solankiram2023/leetcode/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/solankiram2023/leetcode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/solankiram2023/leetcode/tree/master/0282-expression-add-operators) |
 | [0720-longest-word-in-dictionary](https://github.com/solankiram2023/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0807-custom-sort-string](https://github.com/solankiram2023/leetcode/tree/master/0807-custom-sort-string) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/solankiram2023/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/solankiram2023/leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/solankiram2023/leetcode/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/solankiram2023/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/solankiram2023/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/solankiram2023/leetcode/tree/master/0720-longest-word-in-dictionary) |
