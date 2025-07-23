@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/solankiram2023/leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/solankiram2023/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/solankiram2023/leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/solankiram2023/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/solankiram2023/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/solankiram2023/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/solankiram2023/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/solankiram2023/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/solankiram2023/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/solankiram2023/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/solankiram2023/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/solankiram2023/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/solankiram2023/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/solankiram2023/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/solankiram2023/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/solankiram2023/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/solankiram2023/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/solankiram2023/leetcode/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/solankiram2023/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/solankiram2023/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
